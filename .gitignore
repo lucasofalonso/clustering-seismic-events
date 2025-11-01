@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+*.log
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# Data / models / outputs
+data/raw/*
+data/reports/*
+!data/.gitkeep
+
+
+# VSCode / OS
+.vscode/
+.DS_Store
+

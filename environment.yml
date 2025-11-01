@@ -1,0 +1,15 @@
+name: ml-seismic-clustering
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - scipy
+  - numpy
+  - python=3.11
+  - jupyterlab
+  - matplotlib
+  - scikit-learn
+  - plotly
+  - folium
+prefix: /home/lucas/miniconda3/envs/ml-seismic-clustering
