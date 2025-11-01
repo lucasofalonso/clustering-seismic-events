@@ -13,7 +13,15 @@ __pycache__/
 data/raw/*
 data/reports/*
 !data/.gitkeep
+!data/README.md
+!data/raw/README.md
 
+# Reports — keeps relevant HTML and PDFs 
+reports/maps/*
+!reports/maps/cluster_map.html
+!reports/maps/README.md
+reports/figures/*
+!reports/README.md
 
 # VSCode / OS
 .vscode/
